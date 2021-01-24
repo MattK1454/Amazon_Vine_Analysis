@@ -35,4 +35,8 @@ Results Summary:
 
 ## Summary
 
-1.65% (202) of the total, helpful, 5-star reviews were posted by Vine members. The overwhelming majority of 98.35% (12,033) of 5-star reviews were posted by non-Vine members.  It would be resonable to argue a bias exists if an overwhelming majority of the positive reviews came from the Vine members. Since this dataset shows no clear evidence of a majority of 5-star reviews were posted by non-Vine members we can state there is no positivity bias in the Vine program for this dataset.  
+1.65% (202) of the total, helpful, 5-star reviews were posted by Vine members. The overwhelming majority of 98.35% (12,033) of 5-star reviews were posted by non-Vine members.  It would be resonable to argue a bias exists if an overwhelming majority of the positive reviews came from the Vine members. Since this dataset shows no clear evidence of a majority of 5-star reviews were posted by non-Vine members we can state there is no positivity bias in the Vine program for this dataset.
+
+Suggested analysis:
+
+- It might be of benifit to statistically analyze the distribution of reviews among Vine members to determine if someone is in the Vine program, are the reviews randomly distributed or is there a tendency toward a higher or lower level review. This test could be performed using an ANOVA statistical test.
