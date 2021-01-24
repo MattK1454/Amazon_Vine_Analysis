@@ -40,3 +40,7 @@ Results Summary:
 Suggested analysis:
 
 - It might be of benifit to statistically analyze the distribution of reviews among Vine members to determine if someone is in the Vine program, are the reviews randomly distributed or is there a tendency toward a higher or lower level review revealing an implicit bias by being in the Vine program. This test could be performed using an ANOVA statistical test.
+
+## References
+
+1. Module 16 Challenge. Retrieved January 23, 2021, from https://courses.bootcampspot.com/courses/453/assignments/6458
